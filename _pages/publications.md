@@ -7,46 +7,40 @@ redirect_from:
   - /resume
 ---
 
-# {% include base_path %}
-
-Education
-======
-* Ph.D in Mathematics, TU Chemnitz, 2025
-* M.Sc. in Applied Mathematics, TU Chemnitz, 2020
-* B.Sc. in Mathematics, University of Freiburg, 2015
+{% include base_path %}
 
 Submitted articles
 ======
   * K. Bergermann and F. Tudisco
-    Core-periphery detection in multilayer networks
-    arXiv:2412.04179, 2024
-    Code available here
-    Data available here
+  | Core-periphery detection in multilayer networks
+  | arXiv:2412.04179, 2024
+  | Code available here
+  | Data available here
 
 Accepted articles
 ======
   * K. Bergermann and M. Stoll
-    Gradient flow-based modularity maximization for community detection in multiplex networks
-    Philosophical Transactions of the Royal Society A, 2025
-    DOI: 10.1098/rsta.2024.0244
-    arXiv:2408.15003
-    Code available here
+  | Gradient flow-based modularity maximization for community detection in multiplex networks
+  | Philosophical Transactions of the Royal Society A, 2025
+  | DOI: 10.1098/rsta.2024.0244
+  | arXiv:2408.15003
+  | Code available here
 
 Journal articles
 ======
   * K. Bergermann, M. Stoll, and F. Tudisco
-    A nonlinear spectral core-periphery detection method for multiplex networks
-    Proceedings of the Royal Society A, 480(2300), 20230914, 2024
-    DOI: 10.1098/rspa.2023.0914
-    arXiv:2310.19697
-    Code available here
+  | A nonlinear spectral core-periphery detection method for multiplex networks
+  | Proceedings of the Royal Society A, 480(2300), 20230914, 2024
+  | DOI: 10.1098/rspa.2023.0914
+  | arXiv:2310.19697
+  | Code available here
 
   * K. Bergermann and M. Stoll
-    Adaptive rational Krylov methods for exponential Runge--Kutta integrators
-    SIAM Journal on Matrix Analysis and Applications, 45(1), p.744-770, 2024
-    DOI: 10.1137/23M1559439
-    arXiv:2303.09482
-    Code available here
+  | Adaptive rational Krylov methods for exponential Runge--Kutta integrators
+  | SIAM Journal on Matrix Analysis and Applications, 45(1), p.744-770, 2024
+  | DOI: 10.1137/23M1559439
+  | arXiv:2303.09482
+  | Code available here
 
     K. Bergermann and M. Wolter
     A Twitter network and discourse analysis of the Rana Plaza collapse
@@ -98,5 +92,5 @@ Journal articles
 Other articles
 ======
   * M. Stoll and K. Bergermann
-    Multilayer networks and their applications
-    GAMM Rundbrief, 2/2022, p.4-9
+  |  Multilayer networks and their applications
+  | GAMM Rundbrief, 2/2022, p.4-9
