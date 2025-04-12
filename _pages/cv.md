@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Mathematics, TU Chemnitz, 2025
-* M.Sc. in Applied Mathematics, TU Chemnitz, 2020
-* B.Sc. in Mathematics, University of Freiburg, 2015
-
 Work experience
 ======
 * 02/2023 -- 04/2023: Research stay in the research group Numerical Analysis and Data Science group
@@ -28,3 +22,10 @@ Work experience
 * 02/2020 -- 12/2020: Member of the research group Numerical Mathematics (Partial Differential Equations)
   * TU Chemnitz, Germany
   * Supervisor: Prof. Roland Herzog
+  
+Education
+======
+* Ph.D in Mathematics, TU Chemnitz, 2025
+* M.Sc. in Applied Mathematics, TU Chemnitz, 2020
+* B.Sc. in Mathematics, University of Freiburg, 2015
+

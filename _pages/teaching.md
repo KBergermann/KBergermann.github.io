@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Summer term 2024
-======
+## Summer term 2024
+
   * Exercise Complex networks and learning on graphs
   * Exercise Mathematik II (für IF, ET, Ph)
 
