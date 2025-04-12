@@ -11,54 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, TU Chemnitz, 2025
+* M.Sc. in Applied Mathematics, TU Chemnitz, 2020
+* B.Sc. in Mathematics, University of Freiburg, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 02/2023 -- 04/2023: Research stay in the research group Numerical Analysis and Data Science group
+  * Gran Sasso Science Institute, L'Aquila, Italy
+  * Supervisor: Prof. Francesco Tudisco
+  
+* 01/2021 -- current: Member of the research group Scientific Computing
+  * TU Chemnitz, Germany
+  * Supervisor: Prof. Martin Stoll
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 02/2020 -- 12/2020: Member of the research group Numerical Mathematics (Partial Differential Equations)
+  * TU Chemnitz, Germany
+  * Supervisor: Prof. Roland Herzog
