@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal website of Kai Bergermann"
+title: "Kai Bergermann's personal website"
 author_profile: true
 redirect_from: 
   - /about/
