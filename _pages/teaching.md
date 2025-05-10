@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+(all at TU Chemnitz)
+
 ## Summer term 2024
 
   * Exercise Complex networks and learning on graphs
@@ -45,4 +47,5 @@ redirect_from:
 
 ## Winter term 2020/21
 
-  * Exercise Introduction to Data Science (second half)
+  * Exercise Introduction to Data Science
+
