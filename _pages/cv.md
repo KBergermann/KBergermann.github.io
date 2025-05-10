@@ -25,7 +25,7 @@ redirect_from:
   
 ## Education
 
-* Ph.D in Mathematics, TU Chemnitz, 2025
+* Ph.D. in Mathematics, TU Chemnitz, 2025
 * M.Sc. in Applied Mathematics, TU Chemnitz, 2020
 * B.Sc. in Mathematics, University of Freiburg, 2015
 
