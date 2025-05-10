@@ -11,22 +11,18 @@ redirect_from:
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=mMnM5BwAAAAJ).
 
-Submitted articles
-======
-  * K. Bergermann and F. Tudisco.
-    Core-periphery detection in multilayer networks,
-    arXiv:2412.04179, 2024.
+## Submitted articles
 
-Accepted articles
-======
+  * K. Bergermann and F. Tudisco. Core-periphery detection in multilayer networks, arXiv:2412.04179, 2024. <button type="button">[arXiv](https://arxiv.org/abs/2412.04179)</button> <button type="button">[Code](https://github.com/COMPiLELab/MLCP)</button> <button type="button">[Data](https://zenodo.org/records/14231870)</button>
+
+## Accepted articles
+
   * K. Bergermann and M. Stoll.
     Gradient flow-based modularity maximization for community detection in multiplex networks,
-    Philosophical Transactions of the Royal Society A, 2025.
-    DOI: 10.1098/rsta.2024.0244,
-    arXiv:2408.15003
+    Philosophical Transactions of the Royal Society A, 383, 20240244, 2025. <button type="button">[DOI](https://doi.org/10.1098/rsta.2024.0244)</button> <button type="button">[arXiv](https://arxiv.org/abs/2408.15003)</button> <button type="button">[Code](https://github.com/COMPiLELab/MLCP)</button>
 
-Journal articles
-======
+## Journal articles
+
   * K. Bergermann, M. Stoll, and F. Tudisco.
     A nonlinear spectral core-periphery detection method for multiplex networks,
     Proceedings of the Royal Society A, 480(2300), 20230914, 2024.
@@ -78,8 +74,14 @@ Journal articles
     GAMM Archive for Students, 1(1), p.18-27, 2019.
     DOI: 10.14464/GAMMAS.V1I1.419
 
-Other articles
-======
+## Other articles
+
   * M. Stoll and K. Bergermann.
     Multilayer networks and their applications,
     GAMM Rundbrief, 2/2022, p.4-9.
+    
+## Thesis
+
+  * K. Bergermann.
+    Matrix functions in multiplex network analysis,
+    TU Chemnitz, 2025.

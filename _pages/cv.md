@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
-======
+## Work experience
+
 * 02/2023 -- 04/2023: Research stay in the research group Numerical Analysis and Data Science group
   * Gran Sasso Science Institute, L'Aquila, Italy
   * Supervisor: Prof. Francesco Tudisco
@@ -23,8 +23,8 @@ Work experience
   * TU Chemnitz, Germany
   * Supervisor: Prof. Roland Herzog
   
-Education
-======
+## Education
+
 * Ph.D in Mathematics, TU Chemnitz, 2025
 * M.Sc. in Applied Mathematics, TU Chemnitz, 2020
 * B.Sc. in Mathematics, University of Freiburg, 2015
