@@ -11,11 +11,15 @@ redirect_from:
 
 ## Work experience
 
+* 10/2025 -- present: Junior Visiting Position, [CRM Ennio di Giorgi](https://crmdegiorgi.sns.it/)
+  * [Scuola Normale Superiore](https://www.sns.it/en), Italy
+  * Supervisor: [Prof. Michele Benzi](https://www.sns.it/en/persona/michele-benzi)
+
 * 02/2023 -- 04/2023: Research stay in the research group [Numerical Analysis and Data Science](https://num-gssi.github.io)
   * [Gran Sasso Science Institute](https://www.gssi.it/), L'Aquila, Italy
   * Supervisor: [Prof. Francesco Tudisco](https://ftudisco.gitlab.io/)
   
-* 01/2021 -- current: Member of the research group [Scientific Computing](https://www.tu-chemnitz.de/mathematik/wire/)
+* 01/2021 -- 10/2024: Member of the research group [Scientific Computing](https://www.tu-chemnitz.de/mathematik/wire/)
   * [TU Chemnitz](https://www.tu-chemnitz.de/), Germany
   * Supervisor: [Prof. Martin Stoll](https://www.tu-chemnitz.de/mathematik/wire/prof.php)
 

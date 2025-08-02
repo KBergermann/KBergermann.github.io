@@ -11,14 +11,12 @@ redirect_from:
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=mMnM5BwAAAAJ).
 
-## Submitted articles
+## Journal articles
 
   * K. Bergermann and F. Tudisco.
     *Core-periphery detection in multilayer networks*,
-    Preprint, 2024.
-    <button type="button">[arXiv](https://arxiv.org/abs/2412.04179)</button> <button type="button">[Code](https://github.com/COMPiLELab/MLCP)</button> <button type="button">[Data](https://zenodo.org/records/14231870)</button>
-
-## Journal articles
+    Physical Review Letters, 2025.
+    <button type="button">[DOI](https://doi.org/10.1103/yr23-71yc)</button> <button type="button">[arXiv](https://arxiv.org/abs/2412.04179)</button> <button type="button">[Code](https://github.com/COMPiLELab/MLCP)</button> <button type="button">[Data](https://zenodo.org/records/14231870)</button>
 
   * K. Bergermann and M. Stoll.
     *Gradient flow-based modularity maximization for community detection in multiplex networks*,
