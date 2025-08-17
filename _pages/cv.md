@@ -12,7 +12,7 @@ redirect_from:
 ## Work experience
 
 * 10/2025 -- present: Junior Visiting Position, [CRM Ennio di Giorgi](https://crmdegiorgi.sns.it/)
-  * [Scuola Normale Superiore](https://www.sns.it/en), Italy
+  * [Scuola Normale Superiore](https://www.sns.it/en), Pisa, Italy
   * Supervisor: [Prof. Michele Benzi](https://www.sns.it/en/persona/michele-benzi)
 
 * 02/2023 -- 04/2023: Research stay in the research group [Numerical Analysis and Data Science](https://num-gssi.github.io)
