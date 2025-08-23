@@ -15,7 +15,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
   * K. Bergermann and F. Tudisco.
     *Core-periphery detection in multilayer networks*,
-    Physical Review Letters, 2025.
+    Physical Review Letters, 135(8), 087402, 2025.
     <button type="button">[DOI](https://doi.org/10.1103/yr23-71yc)</button> <button type="button">[arXiv](https://arxiv.org/abs/2412.04179)</button> <button type="button">[Code](https://github.com/COMPiLELab/MLCP)</button> <button type="button">[Data](https://zenodo.org/records/14231870)</button>
 
   * K. Bergermann and M. Stoll.
