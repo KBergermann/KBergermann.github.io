@@ -11,3 +11,5 @@ Kai currently holds a Junior Visiting Position in Numerical Analysis at CRM Enni
 - Numerical linear algebra (Krylov subspace methods for matrix functions and linear systems, preconditioning, nonlinear spectral methods)
 - Exponential integrators for stiff systems of ordinary differential equations (ODEs)
 - Network science (Centralities, community detection, core-periphery detection, dynamical processes in the form of ODEs on networks, multiplex and multilayer networks)
+
+Kai is a member of the [The f(A)bulous Scientific Network for Matrix Functions and Exponential Integrators](https://sites.google.com/view/fabulous-dfg-scinet/) funded by DFG.
