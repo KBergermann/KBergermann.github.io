@@ -11,6 +11,14 @@ redirect_from:
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=mMnM5BwAAAAJ).
 
+## Preprints
+
+  * K. Bergermann.
+    *Deterministic sketching for Krylov subspace methods*,
+    arXiv:2604.07158, 2026.
+    <button type="button">[arXiv](https://arxiv.org/abs/2604.07158)</button> <button type="button">[Code](https://github.com/KBergermann/dsKrylov)</button>
+
+
 ## Journal articles
 
   * K. Bergermann and F. Tudisco.
