@@ -13,6 +13,11 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Preprints
 
+  * K. Bergermann, F. Gravili, V. Simoncini, and M. Stoll.
+    *Edge-based Katz centralities for spatio-temporal multiplex networks*,
+    arXiv:2609.24638, 2026.
+    <button type="button">[arXiv](https://arxiv.org/abs/2609.24638)</button>
+    
   * K. Bergermann.
     *Deterministic sketching for Krylov subspace methods*,
     arXiv:2604.07158, 2026.
